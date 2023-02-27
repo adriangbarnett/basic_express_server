@@ -1,0 +1,8 @@
+###
+GET http://localhost:3000/suspend
+###
+POST http://localhost:3000/suspend
+###
+GET http://localhost:3000/return
+###
+POST http://localhost:3000/return
